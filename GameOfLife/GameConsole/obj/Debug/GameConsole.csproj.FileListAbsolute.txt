@@ -1,0 +1,9 @@
+/Users/lindombuthuma/Projects/GameOfLife/GameConsole/bin/Debug/GameConsole.exe
+/Users/lindombuthuma/Projects/GameOfLife/GameConsole/bin/Debug/GameConsole.pdb
+/Users/lindombuthuma/Projects/GameOfLife/GameConsole/bin/Debug/GameOfLife.dll
+/Users/lindombuthuma/Projects/GameOfLife/GameConsole/bin/Debug/GameOfLife.pdb
+/Users/lindombuthuma/Projects/GameOfLife/GameConsole/obj/Debug/GameConsole.csprojAssemblyReference.cache
+/Users/lindombuthuma/Projects/GameOfLife/GameConsole/obj/Debug/GameConsole.csproj.CoreCompileInputs.cache
+/Users/lindombuthuma/Projects/GameOfLife/GameConsole/obj/Debug/GameConsole.csproj.CopyComplete
+/Users/lindombuthuma/Projects/GameOfLife/GameConsole/obj/Debug/GameConsole.exe
+/Users/lindombuthuma/Projects/GameOfLife/GameConsole/obj/Debug/GameConsole.pdb

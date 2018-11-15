@@ -1,0 +1,6 @@
+/Users/lindombuthuma/Projects/GameOfLife/GameOfLife/bin/Debug/GameOfLife.dll
+/Users/lindombuthuma/Projects/GameOfLife/GameOfLife/bin/Debug/GameOfLife.pdb
+/Users/lindombuthuma/Projects/GameOfLife/GameOfLife/obj/Debug/GameOfLife.csproj.CoreCompileInputs.cache
+/Users/lindombuthuma/Projects/GameOfLife/GameOfLife/obj/Debug/GameOfLife.dll
+/Users/lindombuthuma/Projects/GameOfLife/GameOfLife/obj/Debug/GameOfLife.pdb
+/Users/lindombuthuma/Projects/GameOfLife/GameOfLife/obj/Debug/GameOfLife.csprojAssemblyReference.cache

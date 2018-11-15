@@ -1,0 +1,12 @@
+/Users/lindombuthuma/Projects/GameOfLife/GameOfLifeTests/bin/Debug/GameOfLifeTests.dll
+/Users/lindombuthuma/Projects/GameOfLife/GameOfLifeTests/bin/Debug/GameOfLifeTests.pdb
+/Users/lindombuthuma/Projects/GameOfLife/GameOfLifeTests/bin/Debug/GameOfLife.dll
+/Users/lindombuthuma/Projects/GameOfLife/GameOfLifeTests/bin/Debug/nunit.framework.dll
+/Users/lindombuthuma/Projects/GameOfLife/GameOfLifeTests/bin/Debug/GameOfLife.pdb
+/Users/lindombuthuma/Projects/GameOfLife/GameOfLifeTests/bin/Debug/nunit.framework.pdb
+/Users/lindombuthuma/Projects/GameOfLife/GameOfLifeTests/bin/Debug/nunit.framework.xml
+/Users/lindombuthuma/Projects/GameOfLife/GameOfLifeTests/obj/Debug/GameOfLifeTests.csprojAssemblyReference.cache
+/Users/lindombuthuma/Projects/GameOfLife/GameOfLifeTests/obj/Debug/GameOfLifeTests.csproj.CoreCompileInputs.cache
+/Users/lindombuthuma/Projects/GameOfLife/GameOfLifeTests/obj/Debug/GameOfLifeTests.csproj.CopyComplete
+/Users/lindombuthuma/Projects/GameOfLife/GameOfLifeTests/obj/Debug/GameOfLifeTests.dll
+/Users/lindombuthuma/Projects/GameOfLife/GameOfLifeTests/obj/Debug/GameOfLifeTests.pdb

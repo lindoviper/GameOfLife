@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{BC2739AC-6B36-4AAC-9AA5-A9C4B48BADE0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameConsole/Program.cs">
+    <Files>
+      <File FileName="GameOfLifeTests/GameOfLifeTests.cs" Line="124" Column="1" />
+      <File FileName="GameOfLife/Position.cs" Line="10" Column="19" />
+      <File FileName="GameOfLife/LifeCell.cs" Line="7" Column="1" />
+      <File FileName="GameOfLife/Grid.cs" Line="18" Column="1" />
+      <File FileName="GameConsole/Program.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GameOfLife" expanded="True" selected="True">
+            <Node name="GameConsole" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+            <Node name="GameOfLife" expanded="True" />
+            <Node name="GameOfLifeTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="GameOfLife" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="GameOfLife" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.GameOfLife PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GameConsole PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
